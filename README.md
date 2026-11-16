@@ -35,3 +35,7 @@ Power BI File: mohan ecommerce sales dashboard.pbix
 Created By
 
 Mohammad Ali
+
+## Dashboard Preview
+
+![E-Commerce Sales Dashboard](dashboard.png)
