@@ -38,4 +38,4 @@ Mohammad Ali
 
 ## Dashboard Preview
 
-![E-Commerce Sales Dashboard](dashboard.png)
+![E-Commerce Sales Dashboard](Dashboard.png)
